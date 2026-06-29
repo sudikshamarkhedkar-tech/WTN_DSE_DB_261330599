@@ -1,1 +1,9 @@
-# WTN_DSE_DB_261330599
+# Wipro Talent Next — RDBMS & SQL Assignments
+
+Repository for submitting hands-on laboratory exercises and assignment milestones for the **DATABASE SOLUTION EXPERT** module under the **Wipro Talent Next (PBL Program)** training framework.
+
+---
+
+## 👤 Participant Details
+* **Name:** SUDIKSHA MARKHEDKAR
+* **Track:** DATABASE SOLUTION EXPERT
